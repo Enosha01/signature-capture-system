@@ -28,3 +28,4 @@ Add real screenshot later -->
    ```bash
    git clone https://github.com/<your-username>/signature-capture-system.git
    cd signature-capture-system
+ect
