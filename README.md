@@ -26,5 +26,5 @@ Add real screenshot later -->
 ### Setup
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/<your-username>/signature-capture-system.git
+   git clone https://github.com/Enosha01/signature-capture-system.git
    cd signature-capture-system
